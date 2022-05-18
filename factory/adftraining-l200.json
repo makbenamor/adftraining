@@ -1,0 +1,9 @@
+{
+	"name": "adftraining-l200",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f07ea4e4-fc4d-409f-923d-367a33241e55",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
